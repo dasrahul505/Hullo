@@ -13,7 +13,7 @@ The UI uses flexible layout values and responds to the phone's available width a
 
 ## Run locally
 
-This project requires Node.js 22.13 or newer. The development machine currently has Node 20, so update Node before launching the Expo development server.
+This project requires Node.js 22.13 or newer. This development machine uses Node 22.23.5.
 
 ```sh
 npm install
